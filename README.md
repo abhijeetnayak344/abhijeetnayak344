@@ -470,27 +470,6 @@ Greedy Algorithms       ███████████
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetnayak344&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%"/>
-
-</div>
-
----
-
-# 🐍 My Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhijeetnayak344/abhijeetnayak344/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
