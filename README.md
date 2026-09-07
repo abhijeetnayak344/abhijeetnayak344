@@ -7,7 +7,7 @@
 
 I'm an IT student passionate about **problem solving, system design, web technologies, cloud computing, and building real-world applications**.
 
-I actively practice **Data Structures & Algorithms** on LeetCode and HackerRank, with **260+ problems solved on LeetCode**. I'm also interested in understanding how large-scale systems are designed, built, and scaled.
+I actively practice **Data Structures & Algorithms** on LeetCode and HackerRank, with **270+ problems solved on LeetCode**. I'm also interested in understanding how large-scale systems are designed, built, and scaled.
 
 ---
 
@@ -15,7 +15,7 @@ I actively practice **Data Structures & Algorithms** on LeetCode and HackerRank,
 
 * 🎓 Pursuing **B.Tech in Information Technology**
 * 💼 Working as a **Software Engineer Intern**
-* 🧩 Solved **260+ problems on LeetCode**
+* 🧩 Solved **270+ problems on LeetCode**
 * 🏆 Regularly practice DSA on **HackerRank**
 * 🏗️ Strong interest in **System Design**
 * 🌐 Interested in Web & Backend Technologies
