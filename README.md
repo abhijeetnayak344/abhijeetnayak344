@@ -1,58 +1,68 @@
-<!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                    PREMIUM GITHUB README                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABHIJEET%20NAYAK&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20System%20Design&descAlignY=58&descSize=18&color=gradient" width="100%"/>
+<!-- Animated Header -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ABHIJEET%20NAYAK&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20System%20Design%20%7C%20Blockchain&descAlignY=58&descSize=17&color=gradient" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=B.Tech+Information+Technology+Student+%F0%9F%8E%93;Software+Engineer+Intern+%F0%9F%92%BB;AI%2FML+%26+Full+Stack+Developer+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;270%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Building+Scalable+Real-World+Applications+%F0%9F%9A%80" />
+<!-- Typing Animation -->
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Abhijeet+Nayak+%F0%9F%91%8B;B.Tech+Information+Technology+Student+%F0%9F%8E%93;Software+Engineer+Intern+%F0%9F%92%BB;AI%2FML+%26+Full+Stack+Developer+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Blockchain+Enthusiast+%E2%9B%93;270%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Building+Scalable+%26+Decentralized+Applications+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=abhijeetnayak344&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+<br><br>
+
+<!-- Profile Views -->
+
+<img src="https://komarev.com/ghpvc/?username=abhijeetnayak344&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👋 Hi, I'm Abhijeet Nayak
 
 <table>
 <tr>
-<td width="60%">
 
-### Hey, I'm Abhijeet 👋
+<td width="62%" valign="top">
+
+### 🚀 Software Engineer | Developer | Problem Solver
 
 🎓 **B.Tech Information Technology — 3rd Year**
 
 💼 **Software Engineer Intern**
 
-📍 Nagpur, Maharashtra, India
+📍 **Nagpur, Maharashtra, India**
 
-🏫 Parul University
+🏫 **Parul University**
 
-🧠 **270+ LeetCode problems solved**
+🧠 **270+ LeetCode Problems Solved**
 
-🏗️ Interested in **System Design & Distributed Systems**
+🏗️ **System Design & Distributed Systems Enthusiast**
 
-☁️ Exploring **AWS & Cloud Computing**
+⛓️ **Blockchain & Web3 Enthusiast**
 
-⚙️ Building **backend & full-stack applications**
+☁️ **AWS & Cloud Computing Explorer**
 
-📊 Interested in **Data Science & Analytics**
+⚙️ **Backend & Full-Stack Developer**
 
-🚀 I enjoy turning ideas into real-world software.
+📊 **Data Science & Analytics Enthusiast**
+
+🚀 Passionate about building **real-world, scalable and secure applications**.
+
+</td>
+
+<td width="38%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
 
 </td>
 
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-
-</td>
 </tr>
 </table>
 
@@ -62,11 +72,11 @@
 
 <div align="center">
 
-| 🧠 Problem Solving | 🏗️ System Design | 💻 Development |
-|:---:|:---:|:---:|
-| DSA | Scalable Systems | Full Stack |
-| LeetCode | Distributed Systems | Backend |
-| HackerRank | Architecture | REST APIs |
+| 🧠 Problem Solving | 🏗️ System Design | ⛓️ Blockchain | 💻 Development |
+|:---:|:---:|:---:|:---:|
+| DSA | Scalable Systems | Smart Contracts | Full Stack |
+| LeetCode | Distributed Systems | Consensus | Backend |
+| HackerRank | Architecture | Decentralization | REST APIs |
 
 </div>
 
@@ -74,55 +84,181 @@
 
 # 💻 Tech Stack
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 👨‍💻 Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,sql&perline=6"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,sql&perline=6" height="34"/>
 </p>
 
 ### 🌐 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=6"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" height="34"/>
 </p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚙️ Backend & Database
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,postgres,redis&perline=6"/>
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,postgres,redis&perline=4" height="34"/>
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6"/>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" height="34"/>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🏗️ Engineering Interests
+# ⛓️ Blockchain & Web3
 
 <div align="center">
 
-`Data Structures & Algorithms`
+### 🔗 Blockchain Enthusiast
 
-`System Design`
+Exploring how blockchain technology enables **secure, transparent, decentralized and trust-minimized applications**.
 
-`Backend Engineering`
+</div>
 
-`REST APIs`
+### 🧠 Areas I'm Exploring
 
-`Cloud Computing`
+<table>
+<tr>
 
-`Distributed Systems`
+<td width="50%" valign="top">
+
+#### 🔗 Blockchain Fundamentals
+
+- ⛓️ Blockchain Architecture
+- 🧱 Blocks & Hashing
+- 🌳 Merkle Trees
+- 🔐 Cryptographic Security
+- 🌐 Decentralized Networks
+- 🔄 Peer-to-Peer Systems
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🤝 Distributed Consensus
+
+- ⚙️ Proof of Work — PoW
+- 🪙 Proof of Stake — PoS
+- 🤝 Byzantine Fault Tolerance
+- 📜 Consensus Mechanisms
+- 🌐 Network Validation
+- 🔄 Distributed State
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+#### 📜 Smart Contracts
+
+- 📜 Smart Contract Concepts
+- 🔐 Contract Security
+- ⚙️ Automated Transactions
+- 🧩 Decentralized Applications
+- 🪙 Tokenization Concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🚀 Blockchain Projects
+
+- 🔐 **VaultChain**
+- 🛡️ **NexusGuard**
+- 🧠 Secure Data Concepts
+- 🌐 Decentralized Architecture
+- ⛓️ Blockchain-based Applications
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏗️ System Design & Architecture
+
+<div align="center">
+
+```text
+                    ┌─────────────────────┐
+                    │    Client / User    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    API Gateway      │
+                    └──────────┬──────────┘
+                               │
+                ┌──────────────┼──────────────┐
+                ▼              ▼              ▼
+        ┌────────────┐ ┌────────────┐ ┌────────────┐
+        │  Service A │ │  Service B │ │  Service C │
+        └──────┬─────┘ └──────┬─────┘ └──────┬─────┘
+               │               │               │
+               └───────────────┼───────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │       Redis         │
+                    │   Cache / Queue     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    PostgreSQL       │
+                    │      Database       │
+                    └─────────────────────┘
+```
+
+</div>
+
+### 🎯 Concepts I'm Learning
+
+`Scalability`
+
+`Load Balancing`
+
+`Caching`
 
 `Database Design`
 
-`Data Science`
+`API Design`
 
-`Agile Development`
+`Microservices`
 
-</div>
+`Distributed Systems`
+
+`Message Queues`
+
+`Fault Tolerance`
+
+`High Availability`
+
+`CAP Theorem`
+
+`Horizontal Scaling`
 
 ---
 
@@ -131,55 +267,39 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💳 Card Aggregator
+## 💳 Card Aggregator
 
-A platform focused on aggregating and managing card-related information.
+A project focused on aggregating and managing **card-related information** through a structured application architecture.
 
-**Focus**
+### 🔧 Focus
 
-`Backend` `APIs` `Data Management`
+`Backend`
 
-</td>
+`REST APIs`
 
-<td width="50%">
+`Data Management`
 
-### 🛡️ NexusGuard
-
-Security-focused project exploring protection, monitoring and security concepts.
-
-**Focus**
-
-`Security` `Backend` `Monitoring`
+`Application Architecture`
 
 </td>
 
-</tr>
+<td width="50%" valign="top">
 
-<tr>
+## 🛡️ NexusGuard
 
-<td width="50%">
+A security-focused project exploring **protection, monitoring and secure application concepts**.
 
-### 🔐 VaultChain
+### 🔧 Focus
 
-Secure-data project exploring blockchain-related concepts and data protection.
+`Security`
 
-**Focus**
+`Backend`
 
-`Blockchain` `Security` `Data`
+`Monitoring`
 
-</td>
-
-<td width="50%">
-
-### 🍔 Swiggy Clone
-
-Food-delivery web application inspired by modern food-ordering platforms.
-
-**Focus**
-
-`React` `Web Development` `UI`
+`Secure Systems`
 
 </td>
 
@@ -187,27 +307,81 @@ Food-delivery web application inspired by modern food-ordering platforms.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📈 Zerodha Clone
+## 🔐 VaultChain
 
-Trading-platform-inspired application focused on financial UI and application architecture.
+A blockchain-oriented project exploring **secure data management, decentralized architecture and blockchain concepts**.
 
-**Focus**
+### 🔧 Focus
 
-`Frontend` `Finance` `Web`
+`Blockchain`
+
+`Smart Contracts`
+
+`Security`
+
+`Decentralization`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚌 City Bus Tracker
+## 🍔 Swiggy Clone
 
-Real-time public transport tracking system using backend services, maps and live location concepts.
+A modern food-delivery web application inspired by popular food-ordering platforms.
 
-**Focus**
+### 🔧 Focus
 
-`Django` `Flask` `PostgreSQL` `Redis`
+`React`
+
+`Frontend`
+
+`Web Development`
+
+`UI/UX`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📈 Zerodha Clone
+
+A trading-platform-inspired web application focused on **financial interfaces and modern web development**.
+
+### 🔧 Focus
+
+`Frontend`
+
+`Finance`
+
+`Web Development`
+
+`UI`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚌 City Bus Tracker
+
+A real-time public transportation tracking system exploring **live location, maps, backend services and scalable architecture**.
+
+### 🔧 Focus
+
+`Django`
+
+`Flask`
+
+`PostgreSQL`
+
+`Redis`
+
+`WebSockets`
 
 </td>
 
@@ -226,14 +400,223 @@ Real-time public transport tracking system using backend services, maps and live
 
 </div>
 
-### Currently strengthening
+### 🧩 Data Structures & Algorithms
 
 ```text
-Arrays              ████████████████████
-Strings             ███████████████████
-Linked Lists        █████████████████
-Trees               ████████████████
-Graphs              ██████████████
-Recursion           █████████████████
-Backtracking        █████████████
-Dynamic Programming ███████████
+Arrays                  ████████████████████
+Strings                 ███████████████████
+Linked Lists            █████████████████
+Trees                   ████████████████
+Graphs                  ██████████████
+Recursion               █████████████████
+Backtracking            █████████████
+Dynamic Programming     ███████████
+Searching               ███████████████
+Sorting                 ███████████████
+Greedy Algorithms       ███████████
+```
+
+### 🎯 Currently Strengthening
+
+`Advanced DSA`
+
+`Problem Solving`
+
+`Algorithm Optimization`
+
+`Time Complexity`
+
+`Space Complexity`
+
+---
+
+# ☁️ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" height="45"/>
+
+</div>
+
+### Currently Exploring
+
+- ☁️ AWS Cloud Services
+- 🐳 Docker & Containerization
+- 🐧 Linux
+- 🔄 CI/CD Concepts
+- 🌐 Cloud Architecture
+- 📈 Scalable Infrastructure
+- 🔐 Cloud Security
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhijeetnayak344&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetnayak344&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhijeetnayak344&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetnayak344&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhijeetnayak344/abhijeetnayak344/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhijeetnayak344&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📜 Certifications & Learning
+
+<div align="center">
+
+| 🏅 Certification / Learning | 📌 Area |
+|:---|:---:|
+| **AWS Cloud Quest — Cloud Practitioner** | ☁️ Cloud |
+| **Introduction to Linux** | 🐧 Linux |
+| **Data Science & Analytics** | 📊 Data |
+| **Agile Project Management** | 🔄 Agile |
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  🏗️  System Design & Scalable Architecture      ║
+║                                                  ║
+║  ⛓️  Blockchain Architecture & Web3             ║
+║                                                  ║
+║  📜  Smart Contracts                             ║
+║                                                  ║
+║  🤝  Consensus Mechanisms                        ║
+║                                                  ║
+║  🌐  Decentralized Networks                      ║
+║                                                  ║
+║  ☁️  AWS & Cloud Computing                       ║
+║                                                  ║
+║  🧠  Advanced Data Structures & Algorithms       ║
+║                                                  ║
+║  ⚙️  Backend Engineering                         ║
+║                                                  ║
+║  🔄  Distributed Systems                         ║
+║                                                  ║
+║  📊  Data Science & Analytics                    ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 💡 My Engineering Philosophy
+
+<div align="center">
+
+> **"Don't just write code. Understand the system behind it."**
+
+<br>
+
+🧠 **Think deeply**
+
+→
+
+🏗️ **Design carefully**
+
+→
+
+💻 **Build efficiently**
+
+→
+
+🧪 **Test continuously**
+
+→
+
+📈 **Scale intelligently**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/abhijeetnayak344">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:nayakabhijeet344@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhijeet-nayak-a10412337/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&animation=twinkling"/>
+
+### 💙 Thanks for visiting my profile!
+
+**Keep Building. Keep Learning. Keep Scaling. 🚀**
+
+</div>
