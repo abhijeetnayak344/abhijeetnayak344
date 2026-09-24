@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Abhijeet+Nayak+%F0%9F%91%8B;B.Tech+Information+Technology+Student+%F0%9F%8E%93;Software+Engineer+Intern+%F0%9F%92%BB;AI%2FML+%26+Full+Stack+Developer+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Blockchain+Enthusiast+%E2%9B%93;270%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Building+Scalable+%26+Decentralized+Applications+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Abhijeet+Nayak+%F0%9F%91%8B;B.Tech+Information+Technology+Student+%F0%9F%8E%93;Software+Engineer+Intern+%F0%9F%92%BB;AI%2FML+%26+Full+Stack+Developer+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Blockchain+Enthusiast+%E2%9B%93;290%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Building+Scalable+%26+Decentralized+Applications+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -394,7 +394,7 @@ A real-time public transportation tracking system exploring **live location, map
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-270%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HackerRank-Regular%20Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
