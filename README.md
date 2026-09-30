@@ -41,7 +41,7 @@
 
 🏫 **Parul University**
 
-🧠 **290+ LeetCode Problems Solved**
+🧠 **300+ LeetCode Problems Solved**
 
 🏗️ **System Design & Distributed Systems Enthusiast**
 
