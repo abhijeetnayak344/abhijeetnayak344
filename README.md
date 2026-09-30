@@ -394,7 +394,7 @@ A real-time public transportation tracking system exploring **live location, map
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HackerRank-Regular%20Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
