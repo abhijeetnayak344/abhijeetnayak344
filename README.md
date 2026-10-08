@@ -2,7 +2,7 @@
 <!--                    PREMIUM GITHUB README                  -->
 <!-- ========================================================= -->
 
-<div align="center">
+<div align="center"> 
 
 <!-- Animated Header -->
 
